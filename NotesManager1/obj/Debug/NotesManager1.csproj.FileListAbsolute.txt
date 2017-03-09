@@ -10,3 +10,6 @@ D:\Programming\WinForms\NotesManager1\NotesManager1\obj\Debug\NotesManager1.Prop
 D:\Programming\WinForms\NotesManager1\NotesManager1\obj\Debug\NotesManager1.csproj.GenerateResource.Cache
 D:\Programming\WinForms\NotesManager1\NotesManager1\obj\Debug\NotesManager1.exe
 D:\Programming\WinForms\NotesManager1\NotesManager1\obj\Debug\NotesManager1.pdb
+d:\newPC\NotesManager\NotesManager1\bin\Debug\NotesManager1.exe.config
+d:\newPC\NotesManager\NotesManager1\obj\Debug\NotesManager1.exe
+d:\newPC\NotesManager\NotesManager1\obj\Debug\NotesManager1.pdb
