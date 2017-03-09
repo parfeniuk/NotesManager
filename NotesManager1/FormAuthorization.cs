@@ -24,5 +24,10 @@ namespace NotesManager1
             fNotes.Show();
             this.Hide();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            // Add some handler
+        }
     }
 }
