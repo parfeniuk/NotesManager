@@ -1,0 +1,12 @@
+D:\Programming\WinForms\NotesManager1\NotesManager1\bin\Debug\NotesManager1.exe.config
+D:\Programming\WinForms\NotesManager1\NotesManager1\bin\Debug\NotesManager1.exe
+D:\Programming\WinForms\NotesManager1\NotesManager1\bin\Debug\NotesManager1.pdb
+D:\Programming\WinForms\NotesManager1\NotesManager1\obj\Debug\NotesManager1.csprojResolveAssemblyReference.cache
+D:\Programming\WinForms\NotesManager1\NotesManager1\obj\Debug\NotesManager1.FormAuthorization.resources
+D:\Programming\WinForms\NotesManager1\NotesManager1\obj\Debug\NotesManager1.FormNotesManager.resources
+D:\Programming\WinForms\NotesManager1\NotesManager1\obj\Debug\NotesManager1.FormCategoriesEditor.resources
+D:\Programming\WinForms\NotesManager1\NotesManager1\obj\Debug\NotesManager1.FormThemesEditor.resources
+D:\Programming\WinForms\NotesManager1\NotesManager1\obj\Debug\NotesManager1.Properties.Resources.resources
+D:\Programming\WinForms\NotesManager1\NotesManager1\obj\Debug\NotesManager1.csproj.GenerateResource.Cache
+D:\Programming\WinForms\NotesManager1\NotesManager1\obj\Debug\NotesManager1.exe
+D:\Programming\WinForms\NotesManager1\NotesManager1\obj\Debug\NotesManager1.pdb
